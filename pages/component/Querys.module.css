@@ -1,0 +1,14 @@
+.container_modal{
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+    max-height: 100vh;
+    background-color: rgba(0, 0, 10, .4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    /* overflow: hidden !importan; */
+}
